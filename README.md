@@ -6,7 +6,7 @@
 1. Clone the repository📂
 
 ```bash
-git clone https://github.com/OGTAGRAM/ChatAI.git
+https://github.com/OGTAGRAM/Chat-Ai.git
 ```
 
 2. Install dependencies with [uv](https://docs.astral.sh/uv/) and activate virtual environment🔨
