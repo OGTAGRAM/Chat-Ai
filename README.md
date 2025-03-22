@@ -1,7 +1,7 @@
 <h1 align="center">
 📖 LangChain-Streamlit-Docker App
 </h1>
-## 💻 Running Locally
+💻 Running Locally
 
 1. Clone the repository📂
 
